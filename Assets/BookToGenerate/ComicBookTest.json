@@ -1,0 +1,19 @@
+{ 
+	"Title" : "Test_Superheroine",
+	"Comic" : [
+		{
+			"Page" :[
+				{
+					"storyboardPages" : [
+						{
+							"Vignette" : 
+							{
+								"Description" :"feminine superhero comics style"
+							}
+						}
+					]
+				}
+			]
+		}
+	]	
+}
